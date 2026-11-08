@@ -1,0 +1,9 @@
+{
+  "last_name": "Иванов",
+  "first_name": "Иван",
+  "birth_date": "1998-05-12",
+  "phone": "+79991234567",
+  "email": "ivan@example.com",
+  "reasons": ["нет доступа к сети", "не приходят письма"],
+  "detected_at": "2026-10-01T12:30:00"
+}
